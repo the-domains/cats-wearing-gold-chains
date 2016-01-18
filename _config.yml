@@ -1,7 +1,7 @@
 name: Cats Wearing Gold Chains
 favicon: null
-layout_spectrum: 0.9815017732325941
-typography_spectrum: 0.7949081873521209
+layout_spectrum: 1
+typography_spectrum: 0.38431
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#ffffff'
+    - '#aaa3ab'
+    - '#140e12'
+    - '#c22200'
+    - '#e1512d'
   brandStrength: 0.602263739798218
   lightness: 0.12027146108448505
   saturation: 0.8575384409632534
